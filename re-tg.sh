@@ -11,4 +11,4 @@ chmod +x /usr/sju/status-client
 chmod +x /usr/sju/sh/status-tg.sh
 /usr/sju/sh/status-tg.sh nohup >/var/ds/status-tg.log 2>&1 &
 echo '/usr/sju/sh/status-tg.sh nohup >/var/ds/status-tg.log 2>&1 &' >> /usr/sju/sh/Self_starting.sh
-#添加注释
+#添加注释14.22
